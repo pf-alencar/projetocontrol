@@ -2,7 +2,7 @@
 
 Site de vendas do **ProjetoControl®**, software de gestão de projetos industriais.
 
-🌐 **Site:** [www.projetocontrol.com.br](https://www.projetocontrol.com.br)
+🌐 **Site:** [http://www.projetocontrol.dev.br ](https://www.projetocontrol.dev.br )
 
 ---
 
